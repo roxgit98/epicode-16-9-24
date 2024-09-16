@@ -1,9 +1,9 @@
-package davidegiliberti.progetto_13_9_24.services;
+package davidegiliberti.epicode_16_9_24.services;
 
-import davidegiliberti.progetto_13_9_24.entities.Dipendente;
-import davidegiliberti.progetto_13_9_24.exceptions.NotFoundEx;
-import davidegiliberti.progetto_13_9_24.payloads.DipendenteDTO;
-import davidegiliberti.progetto_13_9_24.repositories.DipendenteRepository;
+import davidegiliberti.epicode_16_9_24.entities.Dipendente;
+import davidegiliberti.epicode_16_9_24.exceptions.NotFoundEx;
+import davidegiliberti.epicode_16_9_24.payloads.DipendenteDTO;
+import davidegiliberti.epicode_16_9_24.repositories.DipendenteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

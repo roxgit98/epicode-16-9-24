@@ -1,9 +1,9 @@
-package davidegiliberti.progetto_13_9_24.services;
+package davidegiliberti.epicode_16_9_24.services;
 
-import davidegiliberti.progetto_13_9_24.entities.Viaggio;
-import davidegiliberti.progetto_13_9_24.exceptions.NotFoundEx;
-import davidegiliberti.progetto_13_9_24.payloads.ViaggioDTO;
-import davidegiliberti.progetto_13_9_24.repositories.ViaggioRepository;
+import davidegiliberti.epicode_16_9_24.entities.Viaggio;
+import davidegiliberti.epicode_16_9_24.exceptions.NotFoundEx;
+import davidegiliberti.epicode_16_9_24.payloads.ViaggioDTO;
+import davidegiliberti.epicode_16_9_24.repositories.ViaggioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

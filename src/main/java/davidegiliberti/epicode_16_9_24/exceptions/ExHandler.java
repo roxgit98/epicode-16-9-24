@@ -1,6 +1,6 @@
-package davidegiliberti.progetto_13_9_24.exceptions;
+package davidegiliberti.epicode_16_9_24.exceptions;
 
-import davidegiliberti.progetto_13_9_24.payloads.ErrorDTO;
+import davidegiliberti.epicode_16_9_24.payloads.ErrorDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;

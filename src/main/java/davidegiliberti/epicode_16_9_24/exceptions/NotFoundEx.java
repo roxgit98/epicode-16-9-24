@@ -1,4 +1,4 @@
-package davidegiliberti.progetto_13_9_24.exceptions;
+package davidegiliberti.epicode_16_9_24.exceptions;
 
 public class NotFoundEx extends RuntimeException {
     public NotFoundEx(long id) {

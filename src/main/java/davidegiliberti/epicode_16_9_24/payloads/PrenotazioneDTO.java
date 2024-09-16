@@ -1,4 +1,4 @@
-package davidegiliberti.progetto_13_9_24.payloads;
+package davidegiliberti.epicode_16_9_24.payloads;
 
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
